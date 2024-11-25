@@ -1,1 +1,2 @@
 Ez a fájl első sora az elso fállban
+Master második sor
